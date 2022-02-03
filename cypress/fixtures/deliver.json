@@ -1,0 +1,55 @@
+{
+
+    "signup": {
+
+            "nome": "Pedro Paulo",
+            "cpf": "03982733374",
+            "email": "pedropaulo@gmail.com",
+            "whatsapp": "71988345521",
+            "endereco":{
+                "cep": "42708860",
+                "rua": "Rua Praia de Arembepe",
+                "numero": "33",
+                "complemento": "Entre uma rua e outra",
+                "cidade_uf": "Lauro de Freitas/BA",
+                "bairro": "Vilas do Atlântico"  
+            },
+            "Veiculo": "Moto",
+            "cnh": "images/images.jpg"
+    },
+
+    "cpf_invi": {
+            "nome": "Pedro Paulo",
+            "cpf": "89762834vs5",
+            "email": "pedropaulo@gmail.com",
+            "whatsapp": "71988345521",
+            "endereco":{
+                "cep": "42708860",
+                "rua": "Rua Praia de Arembepe",
+                "numero": "33",
+                "complemento": "Entre uma rua e outra",
+                "cidade_uf": "Lauro de Freitas/BA",
+                "bairro": "Vilas do Atlântico"  
+            },
+            "Veiculo": "Moto",
+            "cnh": "images/images.jpg"
+
+    },
+    
+    "inv_email": {
+        "nome": "Pedro Paulo",
+            "cpf": "03982733374",
+            "email": "pedropaulo.com",
+            "whatsapp": "71988345521",
+            "endereco":{
+                "cep": "42708860",
+                "rua": "Rua Praia de Arembepe",
+                "numero": "33",
+                "complemento": "Entre uma rua e outra",
+                "cidade_uf": "Lauro de Freitas/BA",
+                "bairro": "Vilas do Atlântico"  
+            },
+            "Veiculo": "Moto",
+            "cnh": "images/images.jpg"
+    }
+}

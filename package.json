@@ -1,0 +1,19 @@
+{
+  "name": "burgereats",
+  "version": "1.0.0",
+  "description": "Projeto de Testes de Aceitação do BugerEatrs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Matheus Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
